@@ -47,14 +47,14 @@ function Project() {
     }
 
     return (
-        <div>
-            <h3>Projects</h3>
+        <div className="flex-row px-1">
+            <h1>Projects</h1>
             {isModalOpen &&
                 <Modal project={project}
                     onClose={toggleModal}
                 />}
 
-            <div className="flex-row">
+            <div className="flex-row px-1">
                 {projects.map((project, i) => (
                     <img
                         src={require(`../../assets/large/${i}.png`).default}

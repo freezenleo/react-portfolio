@@ -3,7 +3,7 @@ import { Linkedin, Github } from "react-bootstrap-icons";
 
 function Footer() {
     return (
-        <footer>
+        <footer className="my-5">
             <a data-testid="linkedin" className="mx-2" href="https://bit.ly/3zlV3XT">
                 <Linkedin color="white" size={96} />
             </a>
