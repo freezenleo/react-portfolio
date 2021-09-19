@@ -3,7 +3,7 @@ import Nav from '../Nav';
 
 function Header() {
     return (
-        <header>
+        <header className="flex-row px-1">
             <Nav />
         </header>
     )

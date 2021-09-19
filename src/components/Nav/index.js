@@ -4,7 +4,7 @@ import { BookmarkCheck } from "react-bootstrap-icons";
 function Nav() {
 
     return (
-        <header className="flex-row px-1">
+        <div className="flex-row px-1">
             <h2>
                 <a data-testid="link" href="/">
                     <BookmarkCheck color="white" size={40} />
@@ -30,7 +30,7 @@ function Nav() {
                     </li>
                 </ul>
             </nav>
-        </header >
+        </div >
     );
 }
 
