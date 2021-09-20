@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import './App.css';
 import ContactForm from './components/Contact';
 import './App.css';
+import Header from './components/Header';
 import About from './components/About';
-import Nav from './components/Nav';
 import Project from './components/Project';
 import Resume from './components/Resume';
 import Footer from './components/Footer';
@@ -35,11 +35,11 @@ function App() {
   }
   return (
     <div>
-      <Nav
+      <Header
         nav={nav}
         currentNav={currentNav}
         setCurrentNav={setCurrentNav}
-      ></Nav>
+      />
       <main>
         {navRender()}
       </main>
