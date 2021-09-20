@@ -14,6 +14,7 @@ function App() {
   ])
   const [currentNav, setCurrentNav] = useState(nav[0]);
 
+  //set up switch case for different nav tab
   const navRender = () => {
     switch (currentNav) {
       case 'About':

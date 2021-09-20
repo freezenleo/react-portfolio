@@ -1,13 +1,16 @@
 import React, { useEffect } from 'react';
+//import react bootstrap icons package
 import { BookmarkCheck } from "react-bootstrap-icons";
 
 function Nav(props) {
+    //get props from app.js 
     const {
         nav = [],
         currentNav,
         setCurrentNav
     } = props;
 
+    //set up effect for browser tab name
     useEffect(() => {
         document.title = currentNav
     }, [currentNav])

@@ -1,4 +1,5 @@
 import React from 'react';
+//set path to import the pdf file
 import resume from '../../assets/file/clark-resume.pdf';
 function Resume() {
     return (
