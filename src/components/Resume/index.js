@@ -1,11 +1,11 @@
 import React from 'react';
-
+import resume from '../../assets/file/clark-resume.pdf';
 function Resume() {
     return (
         <section>
             <h1>
-                <a href="../../assets/file/clark-resume.pdf" download>
-                    Link To My Resume
+                <a href={resume} download="clark-resume">
+                    A Copy of My Resume
                 </a>
             </h1>
             <div>
