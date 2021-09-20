@@ -4,7 +4,7 @@ function Resume() {
     return (
         <section>
             <h1>
-                <a href="https://docs.google.com/document/d/1Kq20e8tS9u5RWYb9l0kvvlfSffBmlbrKNW2qqPo1jcE/edit?usp=sharing">
+                <a href="../../assets/file/clark-resume-dl.docx" download="clark-resume">
                     Link To My Resume
                 </a>
             </h1>
