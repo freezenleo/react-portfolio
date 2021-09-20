@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.62ba6739.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.3468c2b0.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.3468c2b0.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.986b75e4.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.986b75e4.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.2e76b924.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.2e76b924.js.map",
     "static/js/2.21354c75.chunk.js": "/react-portfolio/static/js/2.21354c75.chunk.js",
@@ -16,12 +16,13 @@
     "static/media/1.png": "/react-portfolio/static/media/1.880acf4b.png",
     "static/media/2.png": "/react-portfolio/static/media/2.aaeab9b5.png",
     "static/media/3.png": "/react-portfolio/static/media/3.8f347453.png",
-    "static/media/4.png": "/react-portfolio/static/media/4.30b0697b.png"
+    "static/media/4.png": "/react-portfolio/static/media/4.30b0697b.png",
+    "static/media/clark-resume.4e423769.pdf": "/react-portfolio/static/media/clark-resume.4e423769.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.2e76b924.js",
     "static/js/2.21354c75.chunk.js",
     "static/css/main.62ba6739.chunk.css",
-    "static/js/main.3468c2b0.chunk.js"
+    "static/js/main.986b75e4.chunk.js"
   ]
 }
