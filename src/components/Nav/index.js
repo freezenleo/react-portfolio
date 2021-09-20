@@ -15,10 +15,8 @@ function Nav(props) {
     return (
         <div className="flex-row px-1">
             <h2>
-                <a data-testid="link" href="/">
-                    <BookmarkCheck color="white" size={40} />
-                    Jiaming Zhou (Clark)
-                </a>
+                <BookmarkCheck color="white" size={40} />
+                Jiaming Zhou (Clark)
             </h2>
             <nav>
                 <ul className="flex-row">
