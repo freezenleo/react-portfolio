@@ -4,7 +4,7 @@ function Resume() {
     return (
         <section>
             <h1>
-                <a href="../../assets/file/clark-resume-dl.pdf" download>
+                <a href="../../assets/file/clark-resume.pdf" download>
                     Link To My Resume
                 </a>
             </h1>
