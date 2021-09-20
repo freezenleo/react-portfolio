@@ -13,6 +13,7 @@ My professional portfolio written in Reactjs. It contains my bio section, a list
 * react-bootstrap-icons
 * npx create-react-app 
 </br>
+
 ## Repo and Live URL
 Repo URL: https://github.com/freezenleo/react-portfolio
 </br>
