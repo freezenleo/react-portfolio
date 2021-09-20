@@ -9,7 +9,7 @@ My professional portfolio written in Reactjs. It contains my bio section, a list
 * Reactjs
 * HTML
 * CSS
-* react-bootstrap-icons
+* font-awesome library
 * npx create-react-app 
 </br>
 ## Repo and Live URL
