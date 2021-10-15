@@ -4,6 +4,12 @@ import Modal from '../Modal';
 function Project() {
     const [projects] = useState([
         {
+            name: 'PET PLANiT',
+            description: 'Are you a pet owner who wants to connect with other pet owners? This is the website for you. With PET PLANiT you can connect with other pet owners to share advice, set-up playdates, or just share fun pet stories!',
+            repoLink: 'https://github.com/dpbam/pet-social-network',
+            deployedLink: 'https://enigmatic-temple-75821.herokuapp.com/'
+        },
+        {
             name: 'Shake On It',
             description: `Shake On It. Bartering for the 21st century! Want a toaster? Paint my mailbox and it's yours.`,
             repoLink: 'https://github.com/freezenleo/shake-on-it-2',
@@ -14,12 +20,6 @@ function Project() {
             description: 'Developer blog is one of the expert discussion blog for coding. Developers can discuss on the problem they have encouter during coding, or come up with some coding idea for people to discuss, or answering and questioning with other developers.',
             repoLink: 'https://github.com/freezenleo/developer-blog',
             deployedLink: 'https://powerful-anchorage-94267.herokuapp.com/'
-        },
-        {
-            name: 'Photo Port',
-            description: 'Here is a react app for a photographer to show off their works to clients to bring more clients to them.',
-            repoLink: 'https://github.com/freezenleo/photo-port',
-            deployedLink: 'https://freezenleo.github.io/photo-port/'
         },
         {
             name: 'Budget Tracker',
